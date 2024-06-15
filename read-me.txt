@@ -1,0 +1,19 @@
+SEATWORK 3 - Headers and Footers Display Website
+
+Use the nav buttons ("To headgallery" & "To footer") to navigate to different portions of the website.
+
+Feel free to hover over different elements and see what they do!
+Unclickable links change their cursor (cursor: not-allowed) when hovered over. 
+
+Nav logo - changes color and plays a simple animation "hover" when hovered over.
+Nav buttons - darkens and gets a shadow when hovered over.
+Header circle - turns blue when hovered over and turns red when clicked. The text in the circle also changes when hovered and clicked over.
+Head gallery photos - when hovered over, the images scale 1.25x and darken a bit, revealing a title and some filler lorem text.
+Footer logo - changes color and plays a simple animation "hover" when hovered over.
+Footer links - do a simple underline animation when hovered over.
+
+I did not include a footer gallery because I believe that footers should be as simple as possible. They should only contain extra information such as links to contact details, biographies, profile information, etc. 
+
+If ever a photo is going to be used in the footer, I believe it should be something special such as a personal and customized logo to leave your mark on the website.
+
+The site is also responsive, so feel free to try out the website on your mobile phone!
